@@ -71,6 +71,8 @@ tbody{
     width: 100px;
     vertical-align: bottom;
     cursor: pointer;
+    font-weight: bold;
+    cursor: none;
 }
 
 small {
@@ -85,6 +87,8 @@ small {
 
 .novenykep{
     font-style: italic;
+    text-align: center;
+
 }
 
 .novenykep img{
